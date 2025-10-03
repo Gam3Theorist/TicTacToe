@@ -13,8 +13,8 @@ public class TicTacToe
 		Board.fillBoard();
 		Board.displayBoard();
 		Plays.userPlayX();
-		
-				
+		Board.displayBoard();
+		Plays.userPlayX();
 				
 			}
 		
